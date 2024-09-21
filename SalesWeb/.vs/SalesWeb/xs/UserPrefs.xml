@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{74CC6F9E-0AD8-428F-94B2-9708AB928AC3}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalesWeb/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="SalesWeb/Program.cs" Line="28" Column="1" />
+      <File FileName="SalesWeb/Controllers/HomeController.cs" Line="24" Column="1" />
+      <File FileName="SalesWeb/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SalesWeb">
+            <Node name="SalesWeb">
+              <Node name="Controllers">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SalesWeb PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SalesWeb FirstBuild="True" />
 </Properties>

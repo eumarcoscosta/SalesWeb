@@ -20,6 +20,8 @@ public class HomeController : Controller
 
     public IActionResult Privacy()
     {
+        ViewData["Message"] = "Salles web MVC app from";
+
         return View();
     }
 
